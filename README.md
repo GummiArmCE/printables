@@ -2,9 +2,9 @@
 
 3D printable files for the GummiArmCE.
 
-The latest STL files are hosted on this repository. 
+Select STEP and STL files are hosted on this repository. 
 
-For the live Autodesk Fusion 360 design see link below:
+For the full Autodesk Fusion 360 design see link below:
 
 https://a360.co/3oCx1ow
 
